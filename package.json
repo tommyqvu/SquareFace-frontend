@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "babel-eslint": "^10.0.1",
-    "clarifai": "^2.9.0",
+    "clarifai": "^2.9.1",
     "cors": "^2.8.5",
     "env-cmd": "^9.0.3",
     "react": "^16.8.6",
